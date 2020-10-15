@@ -4,11 +4,24 @@ body {
     margin: 0px;
 }
 
-div {
+.top-section {
     background-color: #ffd57e;
-    margin: 0px;
 }
+
+.middle-section {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-section {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+}
+
 
 h1 {
     margin: 0px;
 }
+
