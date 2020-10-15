@@ -2,10 +2,13 @@
 
 body {
     margin: 0px;
+    text-align: center;
 }
 
 .top-section {
     background-color: #ffd57e;
+    position: relative;
+    padding-top: 100px;
 }
 
 .middle-section {
@@ -20,8 +23,27 @@ body {
     height: 200px;
 }
 
-
-h1 {
-    margin: 0px;
+.bottom-cloud {
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+    width: 100px;
+    height: 65px;
 }
 
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+    width: 100px;
+    height: 65px;
+}
+
+
+h1 {
+    margin: 50px auto 0 auto;
+}
+
+.mountain {
+    padding-top: 80px;
+}
