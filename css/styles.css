@@ -23,7 +23,9 @@ h2 {
 
 h3 {
     font-family: "Montserrat", sans-serif;
-    font-size: 2.6rem;
+    font-size: 1.6rem;
+    color: #ac4b1c;
+    line-height: 1;;
 }
 
 .pretext {
@@ -62,4 +64,23 @@ h3 {
 
 .mountain {
     padding-top: 80px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.code-img {
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+}
+
+.code-img-alt {
+    width: 35%;
+    float: right;
+    margin-left: 30px;
 }
