@@ -8,10 +8,26 @@ body {
 
 h1 {
     font-family: "Courgette", cursive;
+    font-size: 5.6rem;
+    margin-top: 70px;
+    margin-bottom: 0px;
+    color: #ac4b1c;
 }
 
 h2 {
     font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    color: #ac4b1c;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.6rem;
+}
+
+.pretext {
+    font-weight: bold;
 }
 
 .top-section {
@@ -42,10 +58,6 @@ h2 {
     top: 50px;
     width: 100px;
     height: 65px;
-}
-
-h1 {
-    margin: 50px auto 0 auto;
 }
 
 .mountain {
