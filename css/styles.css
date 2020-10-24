@@ -40,10 +40,14 @@ h3 {
 
 .middle-section {
     background-color: #ffefa0;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 .bottom-section {
     background-color: #fca652;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 .bottom-cloud {
