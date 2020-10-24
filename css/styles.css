@@ -21,13 +21,11 @@ h2 {
 }
 
 .middle-section {
-    background-color: aqua;
-    height: 200px;
+    background-color: #ffefa0;
 }
 
 .bottom-section {
-    background-color: blueviolet;
-    height: 200px;
+    background-color: #fca652;
 }
 
 .bottom-cloud {
