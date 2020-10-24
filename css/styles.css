@@ -3,6 +3,15 @@
 body {
     margin: 0px;
     text-align: center;
+    font-family: 'Glegoo', serif;
+}
+
+h1 {
+    font-family: 'Courgette', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
 }
 
 .top-section {
