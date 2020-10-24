@@ -4,6 +4,7 @@ body {
     margin: 0px;
     text-align: center;
     font-family: "Glegoo", serif;
+    color: #3c3c3c;
 }
 
 h1 {
@@ -95,3 +96,19 @@ h3 {
     background-color: #ac4b1c;
     border-radius: 50%;
 }
+
+.footer-link {
+    color: #ffefa0;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #ac4b1c;
+    text-decoration: underline;
+}
+
+.copyright {
+    color: #ffefa0;
+    font-size: 0.8rem;
+}
+
