@@ -112,3 +112,10 @@ h3 {
     font-size: 0.8rem;
 }
 
+hr {
+    border-style: dotted;
+    border-color: #ffd57e;
+    border-width: 5px 0px 0px 0px;
+    width: 10%;
+}
+
