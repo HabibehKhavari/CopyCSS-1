@@ -119,6 +119,18 @@ hr {
     width: 10%;
 }
 
+.intro {
+    width: 50%;
+    margin: 10px auto;
+    line-height: 2;
+}
+
+.contact-message {
+    width: 50%;
+    margin: 20px auto;
+    line-height: 2;
+}
+
 .btn {
     background: #FFD57E;
     background-image: -webkit-linear-gradient(top, #FFD57E, #FCA652);
